@@ -1,2 +1,4 @@
 # HealthCare_Cleaning_EDA
-AI generated data set to represent healthcare data, cleaning the data, and exploring the data set.
+This project focuses on cleaning and preparing a healthcare readmission dataset using SQL for later exploratory data analysis. The dataset contains patient records with variables such as demographics, admission details, readmission history, and BMI. The goal was to clean inconsistencies, standardize the data, remove duplicates, and createa new features like BMI tier categorization, ensuring the data is analysis-ready for medical research, policy, or reporting use cases.
+## EDA
+The EDA project dives into the healthcare dataset with the goal of uncovering insights about hospital readmissions, patient characteristics, and the relationships between health behaviors and outcomes. Through the EDA the project evaluates trends and correlations between readmissions and patient demographics, diagnoses, smoking habits, BMI categories, and length of stay.
